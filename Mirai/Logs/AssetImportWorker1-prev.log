@@ -1,0 +1,652 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.32f1 (b2e806cf271c) revision 11724806'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Enterprise' Language: 'en' Physical Memory: 16263 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\6000.0.32f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+D:/Mirai
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+51221
+-job-worker-count
+5
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: D:/Mirai
+D:/Mirai
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [17764]  Target information:
+
+Player connection [17764]  * "[IP] 10.0.0.185 [Port] 0 [Flags] 2 [Guid] 1069945242 [EditorId] 1069945242 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-8GLS977) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [17764] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [17764] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 8.70 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.32f1 (b2e806cf271c)
+[Subsystems] Discovering subsystems at path D:/6000.0.32f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Mirai/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f91)
+    Vendor:   NVIDIA
+    VRAM:     3935 MB
+    Driver:   32.0.15.6070
+Initialize mono
+Mono path[0] = 'D:/6000.0.32f1/Editor/Data/Managed'
+Mono path[1] = 'D:/6000.0.32f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/6000.0.32f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56232
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/6000.0.32f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: D:/6000.0.32f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.004359 seconds.
+- Loaded All Assemblies, in  0.652 seconds
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 471 ms
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.113 seconds
+Domain Reload Profiling: 1765ms
+	BeginReloadAssembly (246ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (49ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (57ms)
+	LoadAllAssembliesAndSetupDomain (284ms)
+		LoadAssemblies (247ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (277ms)
+			TypeCache.Refresh (274ms)
+				TypeCache.ScanAssembly (247ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (1113ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1065ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (618ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (77ms)
+			ProcessInitializeOnLoadAttributes (258ms)
+			ProcessInitializeOnLoadMethodAttributes (107ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  1.269 seconds
+Refreshing native plugins compatible for Editor in 5.93 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.329 seconds
+Domain Reload Profiling: 2596ms
+	BeginReloadAssembly (280ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (52ms)
+	RebuildCommonClasses (63ms)
+	RebuildNativeTypeToScriptingClass (23ms)
+	initialDomainReloadingComplete (53ms)
+	LoadAllAssembliesAndSetupDomain (847ms)
+		LoadAssemblies (609ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (415ms)
+			TypeCache.Refresh (308ms)
+				TypeCache.ScanAssembly (266ms)
+			BuildScriptInfoCaches (94ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (1330ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1164ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (15ms)
+			SetLoadedEditorAssemblies (9ms)
+			BeforeProcessingInitializeOnLoad (276ms)
+			ProcessInitializeOnLoadAttributes (587ms)
+			ProcessInitializeOnLoadMethodAttributes (272ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 10.14 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5367 unused Assets / (2.1 MB). Loaded Objects now: 5826.
+Memory consumption went from 97.5 MB to 95.4 MB.
+Total: 20.952200 ms (FindLiveObjects: 1.910800 ms CreateObjectMapping: 1.772000 ms MarkObjects: 14.451000 ms  DeleteObjects: 2.816100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 7953.443812 seconds.
+  path: Assets/Assets/Image/Enemy/Wolf_Brown_Hit.png
+  artifactKey: Guid(24efb5a650dc40048bbc3622b3118381) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Image/Enemy/Wolf_Brown_Hit.png using Guid(24efb5a650dc40048bbc3622b3118381) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f4b662bafc69129959b69ee3294e3486') in 0.2995925 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Assets/Image/Enemy/Wolf_Black_Attack.png
+  artifactKey: Guid(3e502d1f497019d49b885ffd86e9a9f1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Image/Enemy/Wolf_Black_Attack.png using Guid(3e502d1f497019d49b885ffd86e9a9f1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4840166c1c95132781eb94c8a877bc5e') in 0.0239542 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Assets/Image/UI/Square.png
+  artifactKey: Guid(cab66e8cfcbe4ee4fb87797499b5b8e9) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Image/UI/Square.png using Guid(cab66e8cfcbe4ee4fb87797499b5b8e9) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '36efd70fa2713dbe05835dc1e5a6031a') in 0.0208984 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/Assets/Image/Enemy/Wolf_Ability_A_Loop_FX.png
+  artifactKey: Guid(6708e975d8fbaa640a250672d3f78fdc) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Image/Enemy/Wolf_Ability_A_Loop_FX.png using Guid(6708e975d8fbaa640a250672d3f78fdc) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ae966cbfe7aa4ecde91f3f76509093a8') in 0.0212383 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Assets/Image/Enemy/Wolf_White_Attack.png
+  artifactKey: Guid(07b5157d3547bb14a86749846fe3df3a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Image/Enemy/Wolf_White_Attack.png using Guid(07b5157d3547bb14a86749846fe3df3a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '800e2547be6407cc1df9a04e4cce69c9') in 0.0157086 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/Assets/Fonts/Fantasy_TextBox_A01-1_Blue.png
+  artifactKey: Guid(962b3224f7f85074ea661d8f1cde7f89) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Fonts/Fantasy_TextBox_A01-1_Blue.png using Guid(962b3224f7f85074ea661d8f1cde7f89) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ad709279f97bcc4677ec3e61a8e75dbb') in 0.8119104 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Assets/Image/Enemy/Wolf_Black_Ability_B.png
+  artifactKey: Guid(59e54095322aaea42bd6efcc0f241547) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Image/Enemy/Wolf_Black_Ability_B.png using Guid(59e54095322aaea42bd6efcc0f241547) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b4f02557d15155120c5800155a5e3618') in 0.0216332 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Assets/Image/Player/cat02_idle_strip8.png
+  artifactKey: Guid(c100a503f8835624c8caccdcff93c3f0) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Image/Player/cat02_idle_strip8.png using Guid(c100a503f8835624c8caccdcff93c3f0) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e501cf4a938af03c760c206162437022') in 0.0450836 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Assets/Fonts/01-Fantasy_TextBox_A01-1_Preview_V1.png
+  artifactKey: Guid(c1ec8695cfcda234ea3d20952cc0b989) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Fonts/01-Fantasy_TextBox_A01-1_Preview_V1.png using Guid(c1ec8695cfcda234ea3d20952cc0b989) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '77b3190a3ec826a4c990b6b3da569844') in 0.3602273 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/Assets/Animation/Player/Sprite.controller
+  artifactKey: Guid(284435ec54468c54b892447e6bc113ef) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Animation/Player/Sprite.controller using Guid(284435ec54468c54b892447e6bc113ef) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'eb9c026c3f683664df0da290f1520e7a') in 0.0184015 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 49
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Assets/Image/Enemy/Wolf_Black_Death.png
+  artifactKey: Guid(03d6b1083e0b9e64d977906078816f8b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Image/Enemy/Wolf_Black_Death.png using Guid(03d6b1083e0b9e64d977906078816f8b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e0b7a184f9bbd32e8770cd0fcf13b8de') in 0.6212021 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Assets/Scripts/Managers/GameManager.cs
+  artifactKey: Guid(c64788147ab912a43b276eb7ef3d7983) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Scripts/Managers/GameManager.cs using Guid(c64788147ab912a43b276eb7ef3d7983) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'dcf200468b832e1f847b9c550b77057c') in 0.0059645 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000104 seconds.
+  path: Assets/Assets/Animation/Player/Player_Attack_3.anim
+  artifactKey: Guid(ede4b5f0be1957b4dba2e790b102be32) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Animation/Player/Player_Attack_3.anim using Guid(ede4b5f0be1957b4dba2e790b102be32) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4c83c3b63ee5b5ec6c0036ec1f2bb4ef') in 0.0176173 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Assets/Image/World/TileSet.png
+  artifactKey: Guid(4a837d4d6b3ff544eacf9a3cbbb9b378) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Image/World/TileSet.png using Guid(4a837d4d6b3ff544eacf9a3cbbb9b378) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b737a5f4b3887068f12a3a4ebb43df20') in 0.116959 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 35
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Assets/Image/Items/NewSet.png
+  artifactKey: Guid(1e501f17b42509e40bd0b51e7f1cc69d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Image/Items/NewSet.png using Guid(1e501f17b42509e40bd0b51e7f1cc69d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '91444d3630369e98572fd7a01bc5a585') in 0.0225099 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000095 seconds.
+  path: Assets/Assets/Image/UI/hunter-hunting-with-bow-and-arrow.png
+  artifactKey: Guid(4f9a8d2a5cf7830409914b0dc4b698b6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Image/UI/hunter-hunting-with-bow-and-arrow.png using Guid(4f9a8d2a5cf7830409914b0dc4b698b6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8494f6819569389736cd2334051e7ec2') in 0.0212288 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Assets/Animation/Player/Player_Run.anim
+  artifactKey: Guid(769ee8fdae5c4e14885537409a42811c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Animation/Player/Player_Run.anim using Guid(769ee8fdae5c4e14885537409a42811c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6ec72241ca0577f30a002a3ee4e473ec') in 0.0094257 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/Assets/Image/Enemy/Wolf_Death_FX.png
+  artifactKey: Guid(54df614464694ae428febf6e161c4d23) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Image/Enemy/Wolf_Death_FX.png using Guid(54df614464694ae428febf6e161c4d23) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2e602a9f162ff6972788ee38a7e193a7') in 0.0282857 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000089 seconds.
+  path: Assets/Assets/Image/Player/cat02_attack_strip7.png
+  artifactKey: Guid(3d00bfbb62e44c74e9435c9436a82957) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Image/Player/cat02_attack_strip7.png using Guid(3d00bfbb62e44c74e9435c9436a82957) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd28c8f6b67812c42c1dd8e4f90a7e73f') in 0.0442077 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000090 seconds.
+  path: Assets/Assets/Animation/Player/Player_Roll.anim
+  artifactKey: Guid(03ab130cfa8c2a549b4afaf6e5f9caed) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Animation/Player/Player_Roll.anim using Guid(03ab130cfa8c2a549b4afaf6e5f9caed) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'baf15f3a290bc087fe9b5e5c812a288b') in 0.0103821 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Assets/Image/Enemy/Wolf_Gray_Run.png
+  artifactKey: Guid(d4daf96583454fc4889f5badd0fa2946) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Image/Enemy/Wolf_Gray_Run.png using Guid(d4daf96583454fc4889f5badd0fa2946) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9ed51d221736265f79af50c64135cc58') in 0.3844067 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Assets/Animation/Player/Player_Die.anim
+  artifactKey: Guid(4231748f76b9c6c4e830bc5a8e244166) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Animation/Player/Player_Die.anim using Guid(4231748f76b9c6c4e830bc5a8e244166) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '595d690b6db48bff9d15de27496ec04e') in 0.0203788 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Assets/Image/Enemy/Wolf_White_Full_FX.png
+  artifactKey: Guid(728d803317e6ddf4cb596faa06145c21) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Image/Enemy/Wolf_White_Full_FX.png using Guid(728d803317e6ddf4cb596faa06145c21) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '40c06407174eba4bbf2149c42bdb2c22') in 0.5113748 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Assets/Tilemap/Platforms/JapaneseCityKawaiiTileset_0.asset
+  artifactKey: Guid(e062eb1f9fe5ae54189d678b3e790909) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Tilemap/Platforms/JapaneseCityKawaiiTileset_0.asset using Guid(e062eb1f9fe5ae54189d678b3e790909) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'cb9ebfe8bb0f5fbcf4e1081df7cbfe36') in 0.2286029 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Assets/Tilemap/Platforms/JapaneseCityKawaiiTileset_3.asset
+  artifactKey: Guid(411d6ec8a31ae8443a11aac3b9ce8eb1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Tilemap/Platforms/JapaneseCityKawaiiTileset_3.asset using Guid(411d6ec8a31ae8443a11aac3b9ce8eb1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a0ad68231a43cd0c0f22ced89b512afe') in 0.0092301 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Assets/Tilemap/Platforms/JapaneseCityKawaiiTileset_30.asset
+  artifactKey: Guid(9d58d94cf67adf441bf9e4ec1f42b66f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Tilemap/Platforms/JapaneseCityKawaiiTileset_30.asset using Guid(9d58d94cf67adf441bf9e4ec1f42b66f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5148bcb57f3f7d67e9ffaa6598dacc1e') in 0.0081068 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000092 seconds.
+  path: Assets/Assets/Tilemap/Platforms/JapaneseCityKawaiiTileset_22.asset
+  artifactKey: Guid(429fe781ecde2354c9e671c88f2074f3) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Tilemap/Platforms/JapaneseCityKawaiiTileset_22.asset using Guid(429fe781ecde2354c9e671c88f2074f3) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8c46d5b2745d164b41c95643515c8c5f') in 0.0112686 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Assets/Tilemap/Platforms/JapaneseCityKawaiiTileset_10.asset
+  artifactKey: Guid(4a35adeaf661fa54cb082afe0cd797eb) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Tilemap/Platforms/JapaneseCityKawaiiTileset_10.asset using Guid(4a35adeaf661fa54cb082afe0cd797eb) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'aa1259fa00eee56cfc557927a935c49c') in 0.0085507 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/Assets/Tilemap/Platforms/JapaneseCityKawaiiTileset_9.asset
+  artifactKey: Guid(87135ccdaec23ad4693181a4ea13cb89) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Tilemap/Platforms/JapaneseCityKawaiiTileset_9.asset using Guid(87135ccdaec23ad4693181a4ea13cb89) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '99acc2d0cf42822dd02cd01ef5de6df6') in 0.0133982 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Assets/Tilemap/Platforms/TileSet_12.asset
+  artifactKey: Guid(a3e29ec350f6832499592388796ccbf2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Tilemap/Platforms/TileSet_12.asset using Guid(a3e29ec350f6832499592388796ccbf2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '660959699720950f63e5057f53114701') in 0.0075281 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/Assets/Tilemap/Platforms/JapaneseCityKawaiiTileset_24.asset
+  artifactKey: Guid(c48d137945715954db7288c1b1f0b94e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Tilemap/Platforms/JapaneseCityKawaiiTileset_24.asset using Guid(c48d137945715954db7288c1b1f0b94e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c016eca373b1e351cbddc3b7c9c0c64a') in 0.0096296 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Assets/Tilemap/Platforms/JapaneseCityKawaiiTileset_21.asset
+  artifactKey: Guid(f3454b285b30f9c4e8b12f264ba4ac17) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Tilemap/Platforms/JapaneseCityKawaiiTileset_21.asset using Guid(f3454b285b30f9c4e8b12f264ba4ac17) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e4a796100571ad8d843b4b78a56a6f2e') in 0.0098388 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Assets/Image/Enemy/Wolf_Gray_Attack.png
+  artifactKey: Guid(20cbcd7b67a9e05418f116a68e6101db) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Image/Enemy/Wolf_Gray_Attack.png using Guid(20cbcd7b67a9e05418f116a68e6101db) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '770b16da6d3fc482937e6cb7d7086972') in 0.7946981 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Assets/Tilemap/Platforms/TileSet_16.asset
+  artifactKey: Guid(48c07fbb741f95247b04376979eac0a2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Tilemap/Platforms/TileSet_16.asset using Guid(48c07fbb741f95247b04376979eac0a2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '54df0306a6c23c080635cf62f75baf9b') in 0.0087646 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000091 seconds.
+  path: Assets/Assets/Scripts/Weapon/RangeWeapon.cs
+  artifactKey: Guid(860eb2fc3ae46a74bab6b6ebbbd80ae6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Scripts/Weapon/RangeWeapon.cs using Guid(860eb2fc3ae46a74bab6b6ebbbd80ae6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e7e3e35501c9efb6137cd54b118d0e44') in 0.0051307 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/Assets/Tilemap/Platforms/JapaneseCityKawaiiTileset_8.asset
+  artifactKey: Guid(f688d91ef039491448a64522f4925fd0) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Tilemap/Platforms/JapaneseCityKawaiiTileset_8.asset using Guid(f688d91ef039491448a64522f4925fd0) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '83d78e27e3115d1f35387af7009b85c2') in 0.0087936 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Assets/Tilemap/Platforms/JapaneseCityKawaiiTileset_31.asset
+  artifactKey: Guid(1194f005ac187e046afbe98d434ccb00) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Tilemap/Platforms/JapaneseCityKawaiiTileset_31.asset using Guid(1194f005ac187e046afbe98d434ccb00) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'fc1114b8f8c97a1fc8cb33b089e805d6') in 0.0105202 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Assets/Animation/Player/Player_Idle.anim
+  artifactKey: Guid(959e618db57d6694d9fac05261fe39ee) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Animation/Player/Player_Idle.anim using Guid(959e618db57d6694d9fac05261fe39ee) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '945e7da2fb7f7ca8e4ab0718096d44aa') in 0.009961 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/Assets/Image/UI/happy (2).png
+  artifactKey: Guid(3ae3c872ec92cde49b52e224feaed41e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Image/UI/happy (2).png using Guid(3ae3c872ec92cde49b52e224feaed41e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e717c98764126a42a4d1e23aca77eb6a') in 0.01948 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Assets/Fonts/14 Border 01.png
+  artifactKey: Guid(cf145997e04985e42ae140ec9e5196cb) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Fonts/14 Border 01.png using Guid(cf145997e04985e42ae140ec9e5196cb) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'fdd83b55f35f47b07b48e134b513a450') in 0.018246 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000086 seconds.
+  path: Assets/Assets/Image/Enemy/Wolf_Gray_Ability_A.png
+  artifactKey: Guid(da5577ae6afebeb4196286ea1775d286) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Image/Enemy/Wolf_Gray_Ability_A.png using Guid(da5577ae6afebeb4196286ea1775d286) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '65dee3fc77fea6afb896f23308331a1c') in 0.0185656 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000086 seconds.
+  path: Assets/Assets/Scripts/Animator/AnimatorController.cs
+  artifactKey: Guid(ff7fb2df9c7350040a1a03c66b54ed6a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Scripts/Animator/AnimatorController.cs using Guid(ff7fb2df9c7350040a1a03c66b54ed6a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '79fc5bba0cc52f3028f9f8f3da0e356c') in 0.0041 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Assets/Tilemap/Platforms/JapaneseCityKawaiiTileset_15.asset
+  artifactKey: Guid(1d72d136b0cdf184a9bb7e8c6623b8e8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Tilemap/Platforms/JapaneseCityKawaiiTileset_15.asset using Guid(1d72d136b0cdf184a9bb7e8c6623b8e8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '99d92bc38331c7748b09a167ca36063d') in 0.0085264 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/Assets/Fonts/Retro_Textbox_01-A.psd
+  artifactKey: Guid(55db83cdfa85c3946ad1baa242326fee) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Fonts/Retro_Textbox_01-A.psd using Guid(55db83cdfa85c3946ad1baa242326fee) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'da41701cd778c7d8dca0d16ccae8b482') in 0.2687056 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Assets/Scripts/Joystick/MobileController.cs
+  artifactKey: Guid(4bd8bf12ec65d4a4ba5450e01f2fc82b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Scripts/Joystick/MobileController.cs using Guid(4bd8bf12ec65d4a4ba5450e01f2fc82b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '65f48eb1274c377ae4e019b030c2dafc') in 0.0053219 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Assets/Tilemap/Platforms/JapaneseCityKawaiiTileset_2.asset
+  artifactKey: Guid(430336793725741488a1de5603677b6a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Tilemap/Platforms/JapaneseCityKawaiiTileset_2.asset using Guid(430336793725741488a1de5603677b6a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a0aad166f097ce8309d155b1b423a032') in 0.0129127 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/Resources/BillingMode.json
+  artifactKey: Guid(1939883e1f9eb8e46b91de4a00dd52f7) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/BillingMode.json using Guid(1939883e1f9eb8e46b91de4a00dd52f7) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e1f47642df7e7f2be93839622dcaab7c') in 0.0037971 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Assets/Components Presets/Effects/HitEffect.preset
+  artifactKey: Guid(7189ae75cea82c7448f01862e4cc3fd2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Components Presets/Effects/HitEffect.preset using Guid(7189ae75cea82c7448f01862e4cc3fd2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '67933fda3955c629a1e9b1f9d98f050f') in 0.662271 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Assets/Image/World/Background/Sky BG 1.png
+  artifactKey: Guid(943355785263b99439b41302470ddfb1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Image/World/Background/Sky BG 1.png using Guid(943355785263b99439b41302470ddfb1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '735b1bd5f279154a365ede10041d48c8') in 0.3242834 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Assets/Image/Enemy/Wolf_Black_Ability_A.png
+  artifactKey: Guid(3fb655a3bfd887d439670e257454a624) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Image/Enemy/Wolf_Black_Ability_A.png using Guid(3fb655a3bfd887d439670e257454a624) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '81e83cb7f1bd617148e7a97639bd68f7') in 0.0221433 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/Assets/Animation/Items/Health Bottle.anim
+  artifactKey: Guid(700768c469c78dd4ba3d5d0be1110bd1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Animation/Items/Health Bottle.anim using Guid(700768c469c78dd4ba3d5d0be1110bd1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ac25e0c8fc5fa9e65786366b8809e6fa') in 0.0074598 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Assets/Scripts/Joystick/VirtualJoystick.cs
+  artifactKey: Guid(5371afb8784cb8f4db09c8accca60dd9) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Scripts/Joystick/VirtualJoystick.cs using Guid(5371afb8784cb8f4db09c8accca60dd9) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b2945a893539ed895179395bc0c6666a') in 0.0037755 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Assets/Image/Enemy/Wolf_Brown_Run.png
+  artifactKey: Guid(c16476162a63db6428b407bd4c99a0ee) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Image/Enemy/Wolf_Brown_Run.png using Guid(c16476162a63db6428b407bd4c99a0ee) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '84164e60cb98ff7f79ad9fd49d48fe3e') in 0.2007287 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Assets/Image/Enemy/Wolf_Black_Full_FX.png
+  artifactKey: Guid(b0dd25739ef212c49a5b4e6a351acc24) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Image/Enemy/Wolf_Black_Full_FX.png using Guid(b0dd25739ef212c49a5b4e6a351acc24) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e864af5ba57462a2d353ac06c9c84ed0') in 0.1016502 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Assets/Image/Player/adventurer-bow-Sheet.png
+  artifactKey: Guid(fb0d77358a87f254f8ef15f2955bf283) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Image/Player/adventurer-bow-Sheet.png using Guid(fb0d77358a87f254f8ef15f2955bf283) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '56381ccb1311ab9f18033e7d1ba21ea4') in 0.0476143 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 17
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000095 seconds.
+  path: Assets/Assets/Tilemap/Platforms/JapaneseCityKawaiiTileset_14.asset
+  artifactKey: Guid(39cda09dadab1314fb531bc4d0139f6b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Tilemap/Platforms/JapaneseCityKawaiiTileset_14.asset using Guid(39cda09dadab1314fb531bc4d0139f6b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b2b029c9bc56f56cad1e579ef6a0f901') in 0.0071403 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Assets/Image/Enemy/Wolf_Brown_Death.png
+  artifactKey: Guid(17c8661f08af15e47bf8e69c424aa0d5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Image/Enemy/Wolf_Brown_Death.png using Guid(17c8661f08af15e47bf8e69c424aa0d5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd302b7bb7b9087a4a6885cef199b43cf') in 0.0538263 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Assets/Tilemap/Platforms/TileSet_32.asset
+  artifactKey: Guid(1a51dd7cc92b4df458f9e7ab6e4420c3) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Assets/Tilemap/Platforms/TileSet_32.asset using Guid(1a51dd7cc92b4df458f9e7ab6e4420c3) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9d4d80f70cf3fedceb38bad6b85e6b21') in 0.0538577 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
