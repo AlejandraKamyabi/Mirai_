@@ -1,0 +1,3842 @@
+fileFormatVersion: 2
+guid: 93a1b01676a730a4b9ea903d80f39506
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mirror_room_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1066
+        width: 480
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb10876084629294f8982ed64bb24ca2
+      internalID: 1087297521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_1
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1066
+        width: 480
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e507724178d571745a45e090ede161a9
+      internalID: 355879830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_2
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1242
+        width: 240
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548b593aa24164d49bde262c2284aaf3
+      internalID: -87807428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_3
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1112
+        width: 240
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917bb901d54c3bf4e84c2b9346693283
+      internalID: 887283162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 968
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3629b5053bc32aa45967a2d816ecfe0a
+      internalID: -1563266404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_5
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 968
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039f5e42377bfd9408e01b95f26892ed
+      internalID: -519110572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 968
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae74515eaeea4e7419915aee95862e64
+      internalID: 1236391036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 968
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e925c1a0a7867884da7ff065199bda60
+      internalID: -407744132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_8
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 968
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803465552fcf5b241b4b595d3808b5af
+      internalID: 1599887876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_9
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 968
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c2ad106ab877346b5ce33b8fafd678
+      internalID: -818308398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_10
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 968
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46216ce1b461d03479f7e65fa90d4a1f
+      internalID: 1860104302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_11
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 984
+        width: 24
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b36abaf6df70b246a3256b7cf4ce90c
+      internalID: -964982509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_12
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 984
+        width: 24
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0627648de85f0049a43d2962055219f
+      internalID: -1207772175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_13
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 984
+        width: 24
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2092527b8b9bf74d841696d3c9f08c8
+      internalID: -1013701566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_14
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 984
+        width: 24
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059e335fd0c78d6408399f961e855321
+      internalID: -32820924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_15
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 984
+        width: 23
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34d8f065671514498c72a0d53e16cfa
+      internalID: -1732516711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_16
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 984
+        width: 25
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87271645ba3e17c4ba0bb9fd6b3b2782
+      internalID: -645951814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_17
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 984
+        width: 24
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f9ec813b551834bab925c1e56d10fb
+      internalID: -1517153159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_18
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 984
+        width: 24
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b53d6ef0e6001a4ebc1768b56fb6a68
+      internalID: 1439270653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_20
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 984
+        width: 25
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be932d125e48874b97a6cc64cb2a2a0
+      internalID: 501748735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_21
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 983
+        width: 23
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1715555ca4bcd4b9f7068035521dff
+      internalID: -1071035838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_22
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 983
+        width: 24
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a983ea853cb2e4e8ef52cc85827e83
+      internalID: -1294365117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_23
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 983
+        width: 23
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f096297601a01274c97b3eb1392249ae
+      internalID: 1128441148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_24
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 982
+        width: 25
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf57d9d61c59644baed7a7833e85f8f
+      internalID: 1818401451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_50
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 944
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4595c49fad37545bf4c60d928d0325
+      internalID: -590112129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_58
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 854
+        width: 24
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc0b94b63df49d4b8de015cad22370d
+      internalID: 213558716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_59
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 854
+        width: 24
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663be8f55bac9114eb9a0526a1256276
+      internalID: 1380306167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_60
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 854
+        width: 24
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599dbbe4d9ee4c743b8426686701e3f3
+      internalID: 1504091669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_61
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 854
+        width: 24
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d77992cfff8efc45845f9a607e28a90
+      internalID: 1074246582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_62
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 854
+        width: 24
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f5c84ab87f6954e8edde353f3d9302
+      internalID: -1187847654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_63
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 854
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0491f090ac00744abe69fd26997cf5
+      internalID: 1297085484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_64
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 854
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad7d9a5869ce18418cc621c0d02434c
+      internalID: 1257377349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_65
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 854
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb62cb376b5ce4468e28e87c16b53ca
+      internalID: -534418859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_66
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 854
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720f06ccb7412674e822b8d8327d83b2
+      internalID: 1242110229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_67
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 854
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4212652b4c5e4b74fb37392ef0186630
+      internalID: -1549890772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_68
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 854
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122f2678df12a7a4a8da26d05574e848
+      internalID: 2109360135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_69
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 854
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b90043456f75e43a39153691168f00
+      internalID: -1574630073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_70
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 854
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23a989d5af15f14a97aae56cd9f5bb1
+      internalID: 727928335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_71
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 854
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a618632b708019141a07d724ca708bae
+      internalID: 1694022316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_72
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 854
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea026cbcb5dec67499aafd144d2cc0ae
+      internalID: 269023396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_73
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 854
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be539315e6281c409fc0038f46db88f
+      internalID: 896368442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_74
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 854
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea84029342950d8448c4804ed1767ca6
+      internalID: -468019861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_75
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 854
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e897acb380ca3d841bcd30ccaa303bcf
+      internalID: 2058082433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_76
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 854
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b697a464af4934896a36a2ea4bd96f
+      internalID: 433401069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_77
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 854
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6481082fabf35d949ae7f4d5b1490468
+      internalID: 262645042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_78
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 854
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0484987df00d5e4285e8f6d7dca6e19
+      internalID: -1268501186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_79
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 854
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b4169731edd8d42ad3d8180b949fa6
+      internalID: 978358639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_80
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 854
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8bd62f1f0e08d4bac8c33ab9eeb573
+      internalID: 654347072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_81
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 854
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d64ce8bcc053641a26017d4b246f11
+      internalID: -2102900926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_82
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 854
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec80d3e3412bf34d9e0f44acba20771
+      internalID: 299289331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_83
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 854
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfd09a0fd2e2914398d4a2127ee4482
+      internalID: 1028574807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_84
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 854
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7cdf4fd8cf9174a8d9f6cffa604aaf
+      internalID: 1166644486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_85
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 854
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee8ade0f27e27547819a5c71c6a9c08
+      internalID: 1447946470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_86
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 834
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c32eb1b115ddc41b8c0d254168012e
+      internalID: 1477856553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 776
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5f78bdd4e152a438e8f2633b1d689d
+      internalID: 1800661022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_88
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 776
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e45bed342b36f44a50d529ee7541c1
+      internalID: -2129562817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_89
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 776
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e813fcb377d543b499d2ac0d87fc3f13
+      internalID: 1125350460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_90
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 776
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69eb87ec2d1ab744a6ad07a02e40d78
+      internalID: -1197635301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_91
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 776
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf32a8a0acedee43b8d8171453c17e9
+      internalID: -946595518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_92
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 776
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72badbc75a1d2ff45b7b46da870815f5
+      internalID: -683290193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_93
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 776
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24855e106d07dcd4a9ecc0af756b92c7
+      internalID: -1228633447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_94
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 776
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cada357e9fb9fd44a56e991555199fa
+      internalID: 750961499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_95
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 776
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834fe76a989f3d24fb2bb90e32a113a0
+      internalID: 2144405657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_96
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 776
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25def59315e6a8a4aa41444c30f72a07
+      internalID: 923387794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_97
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 776
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991655a0a7e9c89418b0bbe9451dd597
+      internalID: -36125986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_98
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 776
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47ecc4bd87c4714dab9ae6981645953
+      internalID: 2101552206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_99
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 776
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac146c93353edc4881a05077f5dbd8f
+      internalID: -1536752819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_100
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 776
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d96579679780c044a9da457728670c3
+      internalID: 257868880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_101
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 716
+        width: 24
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956cc21f7f0615747ad26d7bf20d31d4
+      internalID: 1502607782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_102
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 708
+        width: 32
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56368e26f0eef949b96f7c4f8ee993e
+      internalID: 2012805111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_103
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 704
+        width: 36
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6423ac1da5415b43a439938e2bd53bd
+      internalID: 823907598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 722
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343032471ef55a646b13b5c1970e4ff0
+      internalID: -980136991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_105
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 722
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed6f08d84bbb2e44a3ab4619009b34c
+      internalID: -1735168570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_106
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 718
+        width: 76
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16241bc0c1570a04ab71e3739cf5e223
+      internalID: 1071141778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_107
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 722
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9767cf5412877e4f9245e6bfb62a079
+      internalID: 1355339470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_108
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 722
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd3dfc18bc326b4cb2a15c95f4ba5b4
+      internalID: 563506827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_109
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 718
+        width: 76
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f2c7e18b3dee542a3e0e59ce7f77f6
+      internalID: 1289911539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_110
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 710
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7be5bc939ad05040b133ed8beb5cf58
+      internalID: -524192474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_111
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 686
+        width: 72
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dc4be7967b88748a6ff33d142bed97
+      internalID: -537142368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_112
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 690
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914e0d0b4f1b40d439f86808d16c9041
+      internalID: -738771573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_113
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 710
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229eb7e418a496a45838ca0aadd7516a
+      internalID: -1035719320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_114
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 726
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335ea1a364c5285498b76d87afd8d2a3
+      internalID: 672953598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_115
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 722
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec19844e5b90bf4d9a9f08540f332dc
+      internalID: -1194673757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 588
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ffe759c4f872843952f4ef446b9155
+      internalID: 1564817488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_117
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 588
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3481eb464731f542b0c0252a797793d
+      internalID: 11396324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_118
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 588
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6241b84628b3c4ea68af58c0aab082
+      internalID: -1126567875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_119
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 588
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3458acdea6800f047a6d7d6d1b8795fa
+      internalID: 6170887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_120
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 588
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c955b9de719123459db4df6a1aaedf0
+      internalID: -1183391938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_121
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 588
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2892bc6897f505449f261ae7775289f
+      internalID: -631911806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_122
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 588
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af0b865861742248a1910bf399ff178
+      internalID: -1045153527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_123
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 608
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2205f9488f9e82a4da614c1867a639a1
+      internalID: -2104226179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_124
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 608
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfdf19c31eb91043890bcc19b429197
+      internalID: 1338394491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_125
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 608
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d21e0e16e58d2d47be284a2a9931887
+      internalID: 398608668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_126
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 608
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d939ba3b9c2183449bd19cd95dccd95
+      internalID: -2052057519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_127
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 604
+        width: 32
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8ffd46b635af443881a36bd6c9d908
+      internalID: -1869483149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_128
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 608
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5af1ee11f96961448de4e550faf52a2
+      internalID: -2021291956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_129
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 596
+        width: 40
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4374258413c52b4cbee28624bb7ab96
+      internalID: -545413217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_130
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 588
+        width: 40
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf82c493579e4d4db6d5c2f2fab9f88
+      internalID: 364781027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_131
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 572
+        width: 40
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffc6abd9b53b164da0898b450048bb8
+      internalID: 1787741061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_132
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 556
+        width: 44
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccdd3b8b8d034f4e9b959fe9fb163d9
+      internalID: -105431647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_133
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 556
+        width: 48
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734d30080e0285348859609faed483d9
+      internalID: 1274612753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_134
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 552
+        width: 52
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db75f71e3b982ae4faf62633e09a1ff6
+      internalID: 526578215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_135
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 552
+        width: 56
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d986c262b8636b443a6f05aadd2d3688
+      internalID: -842263160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 474
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68cdce416263074bbb36e54546ef81e
+      internalID: 1844492831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_137
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 474
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b0a99683058a34e98c7bb2ef2715c3
+      internalID: -1386687928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_138
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 474
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf35c74eb4f4bf40b8e314dffa2e7ba
+      internalID: 1997969122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_139
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 474
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5240a0455dc9f874596bf9b579bcbfdc
+      internalID: 1123338218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_140
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 474
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618a4d003ad2fa941a5c2bb3d6e8bce4
+      internalID: -1881894859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_141
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 474
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3807baa0a7721f840bd5c90059d2ceec
+      internalID: 2020502752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_142
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 474
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9072157cfcfc76e48acbe02c3c904199
+      internalID: -576931247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_143
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 474
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771f195e0ce063c46a994770dca2e169
+      internalID: 219357592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_144
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 474
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01029fd8fdd064b4492dea207a0b8eab
+      internalID: 291450828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_145
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 474
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c4cb95c2d00f94fbd2789db2bec802
+      internalID: -200512624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_146
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 474
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bf9d564386ff047aa522014537e801
+      internalID: 1936027042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_147
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 474
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c76f31e23f627e4bb6d249f59f6ff93
+      internalID: -1252180700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_148
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 474
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c2db81ed963ad49be575ec67777601
+      internalID: -2024815800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_149
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 474
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb37bd83cf9ed1459588a94cedd2be7
+      internalID: 979443370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_150
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 474
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93132801bafe5114d850a8980e7580fb
+      internalID: -152371489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_151
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 474
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa45465c1c6293449a522f7e9424b5eb
+      internalID: -165552097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_152
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 474
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0bbfe86177c8444b28e065d7f57b44
+      internalID: 811146236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_153
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 474
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649166c5d7fed6b4c8124ec6b8014dcc
+      internalID: 211562644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_154
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 474
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a65ddc557add64ea4541f2e801e1c7
+      internalID: -174399208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_155
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 474
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7852384d38dbdd84fb368ed6b9298954
+      internalID: 809544320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_156
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 474
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca55fb45df2a0ca488f9446c1dbcdd98
+      internalID: -78789936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_157
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 474
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc67b3a3163c174d828fd0200b622ad
+      internalID: -1156259112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_158
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 474
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6595162b60b48cf4cbb58ae675aa2e95
+      internalID: -12988509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_159
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 474
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7f6e7c81baf6749947bb08df0fdef7
+      internalID: 1151170244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_160
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 474
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c850042c1793bc41842615dc2cfb1a6
+      internalID: 1171024808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_161
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 474
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525d93e63c15e8a44a2c69dff69916e1
+      internalID: -229247895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_162
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 474
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f9fa56c5b36f8468cd4c18094e5f1a
+      internalID: 53081507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_163
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 474
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149b44ff0bff84d439c907185adae9a7
+      internalID: -472886169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_164
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 454
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f236a45775d8684a986a5b539383928
+      internalID: -1604825385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5f155aa0cf6ef49a90c5b7ef0f6873
+      internalID: -216278268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_166
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 396
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3f0872904c7f242a1e80aad67a51c2
+      internalID: 356314985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_167
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 396
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e844a99c5a1572540b0ba0780eca6d46
+      internalID: 776962811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_168
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 396
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80f97558af8acf498883579f5279fb0
+      internalID: -73713045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_169
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 396
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b1caf9432ea31459c176be0255caab
+      internalID: -417797886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_170
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 396
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4333b6e8d3b6c2a4690b997195256c48
+      internalID: -173277586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_171
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 396
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba52762711d8524f8135c98d2d5dbf5
+      internalID: -125168491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_172
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 396
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabdb0e6dd3f9d84c81ad589e5953e24
+      internalID: 56832429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_173
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 396
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd491fbb5bbefb4db030505725ac9a6
+      internalID: 510482140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_174
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 396
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999ebbf52e440c544b100fa027e63b13
+      internalID: 798128625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_175
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 396
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4708e12d050ed47a3c255ba91f7532
+      internalID: 1198522257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_176
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 396
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b98cd665e176241bec692da0e11d37
+      internalID: -206372609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_177
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 396
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f92a973d4a40464eb6756cdde1d8121
+      internalID: -676050031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_178
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 396
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8459d291c32e344db377ae513aac9bf
+      internalID: -1387973942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_179
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 336
+        width: 24
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812c687f205e67f4bab18c18784c2c6d
+      internalID: -789594494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_180
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 328
+        width: 32
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a0d246be1d35246ba4195a6e8a0984
+      internalID: -1204690323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_181
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 324
+        width: 36
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9ab7a3e65530246bca7bcec5f387bf
+      internalID: 1203667527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff765207a74933a438bcaa1ebde50de4
+      internalID: -900113371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_183
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 342
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3852bb26d2de2274fb17493a36cb8640
+      internalID: 1311022074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_184
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 338
+        width: 76
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433893a3cf42f4940a886c8777fdaa95
+      internalID: 1234028175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_185
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 342
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b0667882933db4d8c7b9fadd5884fa
+      internalID: -2032111942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_186
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 342
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3127a7a8855f3454abec6372c8652902
+      internalID: -2006450039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_187
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 338
+        width: 76
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4ec5d3975d6394c99cbb849b353b49
+      internalID: -1947316964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_188
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 330
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e274c41f4be633047acbb49645cd6144
+      internalID: 2085763309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_189
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 306
+        width: 72
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1884b141fb4365c4fbeba84eaf98f463
+      internalID: -1216716981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_190
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 310
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fdeecb4f9040b4b8b014de167881a3
+      internalID: -1454044840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_191
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 330
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e0fc7663773e340a4b25a1fd000c5c
+      internalID: 326245478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_192
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 346
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7799baf10e6ef4a8595bbff19b479c
+      internalID: 159419428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_193
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 342
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292729ae56e4b6546b4210aafa354966
+      internalID: 1070169950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_194
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 480
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776b1117b69f3424c8428b16cc4a04c6
+      internalID: 34962224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_195
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 112
+        width: 288
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28f0cd42c3c1a944b77a9c72a077d3b
+      internalID: -1732316835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_196
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 212
+        width: 40
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97c75e264e681e48a80949aa08fa012
+      internalID: 1882225800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_197
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 208
+        width: 40
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b258002dcf079943814132b780cba19
+      internalID: 1690509520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_198
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 208
+        width: 40
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f9a080dc2dc414082df89c7acf3291
+      internalID: -779544823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirror_room_199
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1
+        width: 142
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95a1c1e3d905ee408876d3cc5b259b7
+      internalID: -1152076683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mirror_room_196: 1882225800
+      mirror_room_189: -1216716981
+      mirror_room_82: 299289331
+      mirror_room_192: 159419428
+      mirror_room_24: 1818401451
+      mirror_room_93: -1228633447
+      mirror_room_61: 1074246582
+      mirror_room_62: -1187847654
+      mirror_room_37: 849751272
+      mirror_room_186: -2006450039
+      mirror_room_135: -842263160
+      mirror_room_174: 798128625
+      mirror_room_190: -1454044840
+      mirror_room_88: -2129562817
+      mirror_room_133: 1274612753
+      mirror_room_2: -87807428
+      mirror_room_11: -964982509
+      mirror_room_27: 226997661
+      mirror_room_182: -900113371
+      mirror_room_53: 996410369
+      mirror_room_43: -330828731
+      mirror_room_65: -534418859
+      mirror_room_170: -173277586
+      mirror_room_105: -1735168570
+      mirror_room_173: 510482140
+      mirror_room_117: 11396324
+      mirror_room_180: -1204690323
+      mirror_room_1: 355879830
+      mirror_room_60: 1504091669
+      mirror_room_166: 356314985
+      mirror_room_86: 1477856553
+      mirror_room_9: -818308398
+      mirror_room_127: -1869483149
+      mirror_room_197: 1690509520
+      mirror_room_96: 923387794
+      mirror_room_31: -1765281277
+      mirror_room_29: -1493674088
+      mirror_room_163: -472886169
+      mirror_room_7: -407744132
+      mirror_room_109: 1289911539
+      mirror_room_63: 1297085484
+      mirror_room_58: 213558716
+      mirror_room_70: 727928335
+      mirror_room_115: -1194673757
+      mirror_room_35: -931904334
+      mirror_room_159: 1151170244
+      mirror_room_194: 34962224
+      mirror_room_161: -229247895
+      mirror_room_181: 1203667527
+      mirror_room_72: 269023396
+      mirror_room_95: 2144405657
+      mirror_room_76: 433401069
+      mirror_room_57: 820072259
+      mirror_room_126: -2052057519
+      mirror_room_46: -2022739482
+      mirror_room_33: 1015305727
+      mirror_room_17: -1517153159
+      mirror_room_162: 53081507
+      mirror_room_168: -73713045
+      mirror_room_45: 333131612
+      mirror_room_59: 1380306167
+      mirror_room_136: 1844492831
+      mirror_room_157: -1156259112
+      mirror_room_188: 2085763309
+      mirror_room_41: 138018263
+      mirror_room_112: -738771573
+      mirror_room_67: -1549890772
+      mirror_room_137: -1386687928
+      mirror_room_176: -206372609
+      mirror_room_146: 1936027042
+      mirror_room_195: -1732316835
+      mirror_room_83: 1028574807
+      mirror_room_106: 1071141778
+      mirror_room_69: -1574630073
+      mirror_room_118: -1126567875
+      mirror_room_22: -1294365117
+      mirror_room_49: -124976580
+      mirror_room_40: 1263660840
+      mirror_room_177: -676050031
+      mirror_room_91: -946595518
+      mirror_room_104: -980136991
+      mirror_room_94: 750961499
+      mirror_room_144: 291450828
+      mirror_room_129: -545413217
+      mirror_room_132: -105431647
+      mirror_room_108: 563506827
+      mirror_room_169: -417797886
+      mirror_room_10: 1860104302
+      mirror_room_47: 1707172498
+      mirror_room_77: 262645042
+      mirror_room_119: 6170887
+      mirror_room_148: -2024815800
+      mirror_room_128: -2021291956
+      mirror_room_75: 2058082433
+      mirror_room_123: -2104226179
+      mirror_room_100: 257868880
+      mirror_room_160: 1171024808
+      mirror_room_121: -631911806
+      mirror_room_138: 1997969122
+      mirror_room_30: -323162624
+      mirror_room_89: 1125350460
+      mirror_room_0: 1087297521
+      mirror_room_122: -1045153527
+      mirror_room_191: 326245478
+      mirror_room_92: -683290193
+      mirror_room_152: 811146236
+      mirror_room_175: 1198522257
+      mirror_room_114: 672953598
+      mirror_room_145: -200512624
+      mirror_room_97: -36125986
+      mirror_room_99: -1536752819
+      mirror_room_187: -1947316964
+      mirror_room_110: -524192474
+      mirror_room_107: 1355339470
+      mirror_room_185: -2032111942
+      mirror_room_28: 1688093264
+      mirror_room_36: -954700990
+      mirror_room_78: -1268501186
+      mirror_room_19: 308785720
+      mirror_room_84: 1166644486
+      mirror_room_48: -1951165324
+      mirror_room_101: 1502607782
+      mirror_room_167: 776962811
+      mirror_room_21: -1071035838
+      mirror_room_71: 1694022316
+      mirror_room_102: 2012805111
+      mirror_room_42: 1282141433
+      mirror_room_52: 1912092306
+      mirror_room_183: 1311022074
+      mirror_room_8: 1599887876
+      mirror_room_18: 1439270653
+      mirror_room_81: -2102900926
+      mirror_room_165: -216278268
+      mirror_room_54: 744011393
+      mirror_room_134: 526578215
+      mirror_room_199: -1152076683
+      mirror_room_5: -519110572
+      mirror_room_68: 2109360135
+      mirror_room_16: -645951814
+      mirror_room_111: -537142368
+      mirror_room_131: 1787741061
+      mirror_room_124: 1338394491
+      mirror_room_79: 978358639
+      mirror_room_85: 1447946470
+      mirror_room_73: 896368442
+      mirror_room_193: 1070169950
+      mirror_room_23: 1128441148
+      mirror_room_178: -1387973942
+      mirror_room_64: 1257377349
+      mirror_room_32: 1740624034
+      mirror_room_25: 1524609621
+      mirror_room_179: -789594494
+      mirror_room_150: -152371489
+      mirror_room_171: -125168491
+      mirror_room_156: -78789936
+      mirror_room_184: 1234028175
+      mirror_room_125: 398608668
+      mirror_room_143: 219357592
+      mirror_room_3: 887283162
+      mirror_room_154: -174399208
+      mirror_room_4: -1563266404
+      mirror_room_34: 448808258
+      mirror_room_172: 56832429
+      mirror_room_51: 1785879169
+      mirror_room_113: -1035719320
+      mirror_room_116: 1564817488
+      mirror_room_130: 364781027
+      mirror_room_151: -165552097
+      mirror_room_120: -1183391938
+      mirror_room_139: 1123338218
+      mirror_room_39: -1924773172
+      mirror_room_198: -779544823
+      mirror_room_14: -32820924
+      mirror_room_140: -1881894859
+      mirror_room_164: -1604825385
+      mirror_room_56: 415737824
+      mirror_room_153: 211562644
+      mirror_room_80: 654347072
+      mirror_room_20: 501748735
+      mirror_room_147: -1252180700
+      mirror_room_158: -12988509
+      mirror_room_155: 809544320
+      mirror_room_26: -1335640163
+      mirror_room_6: 1236391036
+      mirror_room_50: -590112129
+      mirror_room_87: 1800661022
+      mirror_room_149: 979443370
+      mirror_room_103: 823907598
+      mirror_room_44: 1773448371
+      mirror_room_90: -1197635301
+      mirror_room_142: -576931247
+      mirror_room_141: 2020502752
+      mirror_room_12: -1207772175
+      mirror_room_98: 2101552206
+      mirror_room_38: -233608139
+      mirror_room_66: 1242110229
+      mirror_room_55: 2104115253
+      mirror_room_13: -1013701566
+      mirror_room_15: -1732516711
+      mirror_room_74: -468019861
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

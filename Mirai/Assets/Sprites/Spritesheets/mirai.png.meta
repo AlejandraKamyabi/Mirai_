@@ -1,0 +1,1456 @@
+fileFormatVersion: 2
+guid: 9cb0132db08374a4f868d6fd68a2cfdc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8565487455516656643
+    second: mirai_0
+  - first:
+      213: 111813639071970821
+    second: mirai_1
+  - first:
+      213: -9148075993180043091
+    second: mirai_2
+  - first:
+      213: 7071388844709733991
+    second: mirai_3
+  - first:
+      213: -1754314161525137652
+    second: mirai_4
+  - first:
+      213: -6912936453288484200
+    second: mirai_5
+  - first:
+      213: 1437269321275067957
+    second: mirai_6
+  - first:
+      213: 8764879189163482113
+    second: mirai_7
+  - first:
+      213: 2774187606470431264
+    second: mirai_8
+  - first:
+      213: 576032454238503586
+    second: mirai_9
+  - first:
+      213: -1221277830364371120
+    second: mirai_10
+  - first:
+      213: -5616606392263952298
+    second: mirai_11
+  - first:
+      213: -1973227239840361658
+    second: mirai_12
+  - first:
+      213: 6180363919474448073
+    second: mirai_13
+  - first:
+      213: -7646846181401260103
+    second: mirai_14
+  - first:
+      213: -5081451339418012034
+    second: mirai_15
+  - first:
+      213: 2805826507897913738
+    second: mirai_16
+  - first:
+      213: -4761254156869185603
+    second: mirai_17
+  - first:
+      213: -399210617404021571
+    second: mirai_18
+  - first:
+      213: 3974290531822668101
+    second: mirai_19
+  - first:
+      213: -342975830492661159
+    second: mirai_20
+  - first:
+      213: -8098350991640766850
+    second: mirai_21
+  - first:
+      213: -4551106125146765698
+    second: mirai_22
+  - first:
+      213: -3446427136018135907
+    second: mirai_23
+  - first:
+      213: 6154287235837169450
+    second: mirai_24
+  - first:
+      213: 9092787209301481158
+    second: mirai_25
+  - first:
+      213: -4372539662369522016
+    second: mirai_26
+  - first:
+      213: -3842655525250630778
+    second: mirai_27
+  - first:
+      213: -7821734207129241200
+    second: mirai_28
+  - first:
+      213: 8272012500350901864
+    second: mirai_29
+  - first:
+      213: -2501803470032383898
+    second: mirai_30
+  - first:
+      213: 6007580223449188481
+    second: mirai_31
+  - first:
+      213: 1509757913970764450
+    second: mirai_32
+  - first:
+      213: -4832118502264755475
+    second: mirai_33
+  - first:
+      213: 1650400994054726476
+    second: mirai_34
+  - first:
+      213: 4184209534978748252
+    second: mirai_35
+  - first:
+      213: 1609381504202771488
+    second: mirai_36
+  - first:
+      213: -8997166105587582147
+    second: mirai_37
+  - first:
+      213: -2856926852892861545
+    second: mirai_38
+  - first:
+      213: 2415263334632449036
+    second: mirai_39
+  - first:
+      213: 3063266260160350973
+    second: mirai_40
+  - first:
+      213: 6616349739086575873
+    second: mirai_41
+  - first:
+      213: -7911169747596322069
+    second: mirai_42
+  - first:
+      213: 6943260300431350092
+    second: mirai_43
+  - first:
+      213: 5066409885720556547
+    second: mirai_44
+  - first:
+      213: -1989904420089184445
+    second: mirai_45
+  - first:
+      213: 7312070719474931720
+    second: mirai_46
+  - first:
+      213: 8287826243206568532
+    second: mirai_47
+  - first:
+      213: 6952874861915054496
+    second: mirai_48
+  - first:
+      213: 3378843939082821001
+    second: mirai_49
+  - first:
+      213: 7675557879369802495
+    second: mirai_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mirai_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 273
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304822a7579bed670800000000000000
+      internalID: 8565487455516656643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 273
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506bded89ed3d8100800000000000000
+      internalID: 111813639071970821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 273
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da889305a518b0180800000000000000
+      internalID: -9148075993180043091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 273
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766659d30be922260800000000000000
+      internalID: 7071388844709733991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 272
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f5bd9909c67a7e0800000000000000
+      internalID: -1754314161525137652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_5
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 271
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89224ea0ce05010a0800000000000000
+      internalID: -6912936453288484200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_6
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 271
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53eca2d25d432f310800000000000000
+      internalID: 1437269321275067957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_7
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 271
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c9d492f2b13a970800000000000000
+      internalID: 8764879189163482113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 247
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02216f70ee4ef7620800000000000000
+      internalID: 2774187606470431264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_9
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 247
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a28bf5177a7ef700800000000000000
+      internalID: 576032454238503586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_10
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 248
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057621da8462d0fe0800000000000000
+      internalID: -1221277830364371120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 210
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6583be98e3ecd02b0800000000000000
+      internalID: -5616606392263952298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 210
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643d03ca740bd94e0800000000000000
+      internalID: -1973227239840361658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 210
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c65ae26d3015c550800000000000000
+      internalID: 6180363919474448073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 210
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf8689a9e1f0e590800000000000000
+      internalID: -7646846181401260103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_15
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 208
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e767e82fdee0b79b0800000000000000
+      internalID: -5081451339418012034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_16
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 207
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8141a0d75c40f620800000000000000
+      internalID: 2805826507897913738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 207
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfc57e0290acedb0800000000000000
+      internalID: -4761254156869185603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 184
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4a11ffe08b57af0800000000000000
+      internalID: -399210617404021571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_19
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 184
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5490d779e24872730800000000000000
+      internalID: 3974290531822668101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_20
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 184
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ab0f0ac418d3bf0800000000000000
+      internalID: -342975830492661159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 185
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76d1d41ea0ec9f80800000000000000
+      internalID: -8098350991640766850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 145
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76c58b871937d0c0800000000000000
+      internalID: -4551106125146765698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_23
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 145
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d944f5d97c4db20d0800000000000000
+      internalID: -3446427136018135907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_24
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 145
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f8bc952ab686550800000000000000
+      internalID: 6154287235837169450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_25
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 145
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c651ac8ac1103e70800000000000000
+      internalID: 9092787209301481158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_26
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 144
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae7822085e9153c0800000000000000
+      internalID: -4372539662369522016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_27
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 143
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b7e37b8252caac0800000000000000
+      internalID: -3842655525250630778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_28
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 143
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0993a801e2e937390800000000000000
+      internalID: -7821734207129241200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_29
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 143
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e9105ca871cc270800000000000000
+      internalID: 8272012500350901864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_30
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 143
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66051e6cffec74dd0800000000000000
+      internalID: -2501803470032383898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_31
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 143
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188c95a32663f5350800000000000000
+      internalID: 6007580223449188481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 119
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aaef0fd2dcb3f410800000000000000
+      internalID: 1509757913970764450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_33
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 82
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deaaae7e2ddd0fcb0800000000000000
+      internalID: -4832118502264755475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_34
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 81
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43659bb5f667e610800000000000000
+      internalID: 1650400994054726476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_35
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 79
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fe536376c411a30800000000000000
+      internalID: 4184209534978748252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_36
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 79
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c071283fba55610800000000000000
+      internalID: 1609381504202771488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_37
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 82
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b74439815a32380800000000000000
+      internalID: -8997166105587582147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_38
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 83
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bdb08f9282a58d0800000000000000
+      internalID: -2856926852892861545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_39
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 42
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04eacbc43db48120800000000000000
+      internalID: 2415263334632449036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_40
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 43
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa0c490f68e28a20800000000000000
+      internalID: 3063266260160350973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_41
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 41
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109f004680ff1db50800000000000000
+      internalID: 6616349739086575873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_42
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 41
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea54bc9701e53290800000000000000
+      internalID: -7911169747596322069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_43
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 41
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49584ec47a6b5060800000000000000
+      internalID: 6943260300431350092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_44
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 42
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304b6e4b2f08f4640800000000000000
+      internalID: 5066409885720556547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fba9f09707264e0800000000000000
+      internalID: -1989904420089184445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_46
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 4
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80896de0491b97560800000000000000
+      internalID: 7312070719474931720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_47
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 3
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45adc72be06440370800000000000000
+      internalID: 8287826243206568532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_48
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 3
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1a03859d29d7060800000000000000
+      internalID: 6952874861915054496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_49
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 5
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d538429a014ee20800000000000000
+      internalID: 3378843939082821001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirai_50
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 4
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2a9c4793f058a60800000000000000
+      internalID: 7675557879369802495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5b6c7f1d97c801347a08e4fed1665c21
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mirai_0: 8565487455516656643
+      mirai_1: 111813639071970821
+      mirai_10: -1221277830364371120
+      mirai_11: -5616606392263952298
+      mirai_12: -1973227239840361658
+      mirai_13: 6180363919474448073
+      mirai_14: -7646846181401260103
+      mirai_15: -5081451339418012034
+      mirai_16: 2805826507897913738
+      mirai_17: -4761254156869185603
+      mirai_18: -399210617404021571
+      mirai_19: 3974290531822668101
+      mirai_2: -9148075993180043091
+      mirai_20: -342975830492661159
+      mirai_21: -8098350991640766850
+      mirai_22: -4551106125146765698
+      mirai_23: -3446427136018135907
+      mirai_24: 6154287235837169450
+      mirai_25: 9092787209301481158
+      mirai_26: -4372539662369522016
+      mirai_27: -3842655525250630778
+      mirai_28: -7821734207129241200
+      mirai_29: 8272012500350901864
+      mirai_3: 7071388844709733991
+      mirai_30: -2501803470032383898
+      mirai_31: 6007580223449188481
+      mirai_32: 1509757913970764450
+      mirai_33: -4832118502264755475
+      mirai_34: 1650400994054726476
+      mirai_35: 4184209534978748252
+      mirai_36: 1609381504202771488
+      mirai_37: -8997166105587582147
+      mirai_38: -2856926852892861545
+      mirai_39: 2415263334632449036
+      mirai_4: -1754314161525137652
+      mirai_40: 3063266260160350973
+      mirai_41: 6616349739086575873
+      mirai_42: -7911169747596322069
+      mirai_43: 6943260300431350092
+      mirai_44: 5066409885720556547
+      mirai_45: -1989904420089184445
+      mirai_46: 7312070719474931720
+      mirai_47: 8287826243206568532
+      mirai_48: 6952874861915054496
+      mirai_49: 3378843939082821001
+      mirai_5: -6912936453288484200
+      mirai_50: 7675557879369802495
+      mirai_6: 1437269321275067957
+      mirai_7: 8764879189163482113
+      mirai_8: 2774187606470431264
+      mirai_9: 576032454238503586
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1087 @@
+fileFormatVersion: 2
+guid: f5064acacef5358418037ab046806c62
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_0
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 84
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f592f5ad364b341ad0b86ab30c5ed8
+      internalID: 235063151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_1
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 84
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562b8045e34b6f64082a3bea0c08783c
+      internalID: 740882359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_2
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 84
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e842a9ad056406445a61a9a9573adea0
+      internalID: -1011877126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 84
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e7c0e12f887a84297299d13d9de7fb
+      internalID: -1387006454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_4
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 84
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd68845617ce3ed4fafe4a970d9c9ed5
+      internalID: 1617296718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_5
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 84
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c150949b3d653b64abef26b97d2a3f97
+      internalID: 2023377570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_6
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 84
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604b05f98202cac40a1d57fcebe26206
+      internalID: 1210504328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_7
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 84
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2115b06e232c44da2aa6a85bc1a375
+      internalID: 62236249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_8
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 84
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68b3ac72a3cd66479109e88d13402b6
+      internalID: -2035309056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_9
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 84
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f21f79285413bb4ab8adeb351c46f12
+      internalID: -1867510198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_10
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 84
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4f4c6c31408784bb7d4a9444f7b4ab
+      internalID: 1546762072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_11
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 81
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed27cfad938254c4cad6d26ed691f1b4
+      internalID: -161326274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_12
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 84
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985a17039f2c53844ab59ca296e74ba2
+      internalID: 1906224689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_13
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 69
+        width: 204
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7349246a559b44f86af3624a141e4c
+      internalID: -1946946967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_14
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 38
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ff1636b39f6244f926bc307bd0b9c0
+      internalID: 425001943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_15
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 30
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd6a0ec90a4fca439468a6bb16f62c0
+      internalID: -1132946780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_16
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 28
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6895edf0b1b53de46b23c0a2d2397829
+      internalID: -1327330794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_17
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 28
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a021775ada873b540b50117ef84805d9
+      internalID: -1888218056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_18
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 27
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3c99ff41217ab4abe49e0734de3076
+      internalID: 542602272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_19
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 28
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0181daa6bf5b584785aa4c072017058
+      internalID: -2026612263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_24
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 39
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70350c07ab65aa746af50397a8c69902
+      internalID: 542846021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_25
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 39
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28f3f314afe3a64ca33ee387d5cb52d
+      internalID: -1504907911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_26
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 39
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c27ea019b34044090cc97f731ab9aa
+      internalID: -241184201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_27
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 39
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2332742ce18397649aa31f3213a9bfcd
+      internalID: -510574856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_31
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 28
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e3ec01f9d423342b96d07413c85026
+      internalID: 314689936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_32
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 28
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89148807ec953854594ee343a9902dd6
+      internalID: -869938827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_34
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc929f5e165761043b5603bab5e9256e
+      internalID: 482095737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_35
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 4
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92ede10f01dc2346ab192d595e2e481
+      internalID: 2013954292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_36
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 4
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a4f84e62f6178419e68d290cd80ef9
+      internalID: 1341898751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_37
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 4
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50452ced771f5794bacde9d1fe0b79d9
+      internalID: -1139587074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_38
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 4
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e41206e45cafc4087e0d035187172e
+      internalID: -2143645560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3d3e1b7d504a546ae38c52b68d2111
+      internalID: -1436098715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_40
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 4
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e0c81f4ad071640b696efa1dd4a969
+      internalID: 1581348464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_41
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 4
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f9e8c66f081244094c829461c5565f
+      internalID: -706268766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_42
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 4
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9a5394b8d3eb24c8923ecbba5db9ca
+      internalID: 1978099601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_43
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 4
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f495e1f6c6a7baf4483b15a3186e5aff
+      internalID: 1215191802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_44
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 4
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3f58c33e6cac4448ce7d8c918fe491
+      internalID: 23842148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_45
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 4
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b8ad884b87409439d70ba1418625e5
+      internalID: -1491460166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_46
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 4
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65185f1d044c9c1428b5241643087d69
+      internalID: -1039142656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_47
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 4
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1f421cdbc018e40ab5ae453dd2d54f
+      internalID: -278613030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_48
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 5
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990bacdc72f43544a8af252270934687
+      internalID: 560387511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_20
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 86
+        width: 104
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f1c24eb1a61b344b5dafac0ec8e3b9
+      internalID: 580916256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Clock Tower for Windows 95 - Inventory Items_21
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 81
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611c0d7089cc6f94788fd8fc4999a11c
+      internalID: -402612575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_7: 62236249
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_20: 580916256
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_16: -1327330794
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_13: -1946946967
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_18: 542602272
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_1: 740882359
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_40: 1581348464
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_4: 1617296718
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_21: -402612575
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_43: 1215191802
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_12: 1906224689
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_38: -2143645560
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_47: -278613030
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_33: -1123575888
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_30: -2117905532
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_42: 1978099601
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_23: -1287018183
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_25: -1504907911
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_45: -1491460166
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_37: -1139587074
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_28: 1754884405
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_31: 314689936
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_6: 1210504328
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_0: 235063151
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_26: -241184201
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_8: -2035309056
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_35: 2013954292
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_3: -1387006454
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_9: -1867510198
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_24: 542846021
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_10: 1546762072
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_2: -1011877126
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_14: 425001943
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_48: 560387511
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_32: -869938827
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_15: -1132946780
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_22: 753582256
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_46: -1039142656
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_44: 23842148
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_34: 482095737
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_5: 2023377570
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_36: 1341898751
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_41: -706268766
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_29: -911247722
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_19: -2026612263
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_27: -510574856
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_11: -161326274
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_39: -1436098715
+      PC Computer - Clock Tower for Windows 95 - Inventory Items_17: -1888218056
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

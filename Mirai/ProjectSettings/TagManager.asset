@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Interactable
+  - TVInteraction
+  - Painting
+  - Table
+  - Door
+  - Door_Bedroom
+  - mirror
+  - frame
+  - cage
+  - door_pink_bedroom
+  - door_hallway
+  - bathroom_sink
+  - closet
+  - jar
+  - door_room4
+  - bedroom
+  - hide_bed
+  - barrier
+  - end
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - interactableLayer
+  - Water
+  - UI
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 4110875559
+    locked: 0
