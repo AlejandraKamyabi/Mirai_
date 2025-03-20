@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      You can control mirai using the cursor-1 1_0: -8203105796722246903
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

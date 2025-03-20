@@ -520,7 +520,9 @@ public class PlayerController : MonoBehaviour
             yield return StartCoroutine(TypeDialogue("wha...the lights went out!!..."));
 
             yield return new WaitForSeconds(2f);
-
+            cursorController.gameObject.SetActive(false);
+            Cursor.visible = false;
+            initial_ = true;
             if (jar != null)
             {
                 jar.SetActive(true);
@@ -559,7 +561,8 @@ public class PlayerController : MonoBehaviour
             yield return new WaitForSeconds(2f);
 
             animator.SetBool("canWalk", false);
-     
+            cursorController.gameObject.SetActive(true);
+            initial_ = false;
             yield break;
 
         }
