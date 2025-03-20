@@ -206,10 +206,7 @@ public class CursorController : MonoBehaviour
         cursorAnimator.Update(0f);
     }
 
-    void OnDisable()
-    {
-        Cursor.visible = true; 
-    }
+ 
     void OnTriggerEnter2D(Collider2D other)
     {
         if (!isInteracting)

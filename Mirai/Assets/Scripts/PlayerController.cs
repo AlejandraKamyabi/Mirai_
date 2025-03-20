@@ -35,6 +35,7 @@ public class PlayerController : MonoBehaviour
     public GameObject frame;
     public GameObject cage;
     public GameObject closet;
+    public GameObject gameDone;
     public GameObject bloodySink;
     public GameObject loading;
     public GameObject deadEnd;
@@ -181,7 +182,6 @@ public class PlayerController : MonoBehaviour
         dialogueText.text = "";
 
         cursorController.gameObject.SetActive(true);
-        Cursor.visible = true;
         initial_ = false;
     }
 
@@ -306,10 +306,6 @@ public class PlayerController : MonoBehaviour
             }
             isInteracting = false; // End interaction movement
             cursorController.canInteract(false);
-            cursorController.gameObject.SetActive(true);
-            Cursor.visible = true;
-            cursorController.cursor_reset();
-            initial_ = false;
         }
     }
 
@@ -365,7 +361,9 @@ public class PlayerController : MonoBehaviour
     private void StartVerticalMovement()
     {
         animator.SetBool("canGoUp", true);
-        
+        cursorController.gameObject.SetActive(false);
+        Cursor.visible = false;
+        initial_ = true;
         if (isDoor == true)
         {
             Vector3 tvPosition = GameObject.FindWithTag("Door_Bedroom").transform.position;
@@ -412,8 +410,10 @@ public class PlayerController : MonoBehaviour
     private IEnumerator MoveVertically(Vector3 targetPos, float yOffset)
     {
         float verticalSpeed = 4f; // Speed for vertical movement
-        speed = verticalSpeed; 
-
+        speed = verticalSpeed;
+        cursorController.gameObject.SetActive(false);
+        Cursor.visible = false;
+        initial_ = true;
         yield return new WaitForSeconds(1.5f);
         Vector3 originalScale = transform.localScale;
         while (Vector3.Distance(transform.position, targetPos) > 0.1f)
@@ -615,6 +615,8 @@ public class PlayerController : MonoBehaviour
 
             animator.SetBool("canWalk", false);
             DActivateEnemy();
+            gameDone.GetComponent<SpriteRenderer>().enabled = true;
+
             yield break;
 
         }
@@ -649,6 +651,9 @@ public class PlayerController : MonoBehaviour
             // Start displaying the dialogue after the interaction is complete
             StartCoroutine(TypeDialogue(dialogueMessage));
         }
+        cursorController.gameObject.SetActive(true);
+        cursorController.cursor_reset();
+        initial_ = false;
 
     }
 
@@ -961,6 +966,9 @@ public class PlayerController : MonoBehaviour
         animator.SetBool("canTurn", false); // Stop canTurn animation
         dialogueText.text = ""; // Clear the dialogue
         isInteracting = false; // End interaction
+        cursorController.gameObject.SetActive(true);
+        cursorController.cursor_reset();
+        initial_ = false;
         isTv = true;
     }
 
@@ -1041,7 +1049,6 @@ public class PlayerController : MonoBehaviour
         yield return new WaitForSeconds(2f); // Wait for 3 seconds before clearing the dialogue
         dialogueText.text = ""; // Clear the dialogue after the delay
         cursorController.gameObject.SetActive(true);
-        Cursor.visible = true;
         cursorController.cursor_reset();
         initial_ = false;
     }
